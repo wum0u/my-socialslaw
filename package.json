@@ -1,0 +1,8 @@
+{
+  "name": "socialslaw",
+  "description": "Server-less cross-posting using GitHub Actions",
+  "author": "Ric Wood <ric@grislyeye.com>",
+  "scripts": {
+    "start": "act --secret-file .secrets --job print"
+  }
+}
