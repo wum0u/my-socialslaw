@@ -18,9 +18,9 @@ jobs:
           on: '
             {
               "activitypub": {
-                "user": "username",
-                "host": "example.com",
-                "removeTrailingHashtags": "true"
+                "user": "wumou",
+                "host": "g0v.social",
+                "removeTrailingHashtags": "false"
               }
             }'
 
